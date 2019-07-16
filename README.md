@@ -1,6 +1,7 @@
 # login app with Angularjs,php and mysql
 a simple login application created using angularjs, php and mysql.
-registre user / login user / change user password
+
+ functionnalities : registre user / login user / change user password
 # requirement
 node js 
 xampp
